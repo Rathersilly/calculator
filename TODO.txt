@@ -1,0 +1,2 @@
+rather than create the grid with js, use a loop to write grid elements
+to index.html with a ruby or bash script.
